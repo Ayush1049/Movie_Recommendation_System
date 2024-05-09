@@ -1,3 +1,3 @@
 # Movie_Recommendation_System
-# Strealit
+# Streamlit
 # Top 5 similar movies 
